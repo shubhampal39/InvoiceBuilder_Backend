@@ -1,3 +1,16 @@
 install packages following:
 
+//for express
 npm i -s express
+
+//fro convert to es6
+npm install -D babel-cli babel-preset-env
+-not above package need to convert to es6
+-i have use following link to convert to es6
+https://fredriccliver.medium.com/syntaxerror-cannot-use-import-statement-outside-a-module-69182014b8c6
+
+//for runnning code contineously
+npm i nodemon
+
+// for dist folder and 
+npm run build --
